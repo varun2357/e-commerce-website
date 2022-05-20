@@ -48,7 +48,7 @@ they stand for the for sytem port and mongodb database id
 
 For port i used 4000
 
-for DB_URI make a new cluster,give it ip permissions and the copy the id here.dont forget to replace <password> in the link
+for DB_URI make a new cluster in mongoDB and follow the instructions it recomends,give it ip permissions and the copy the id here.dont forget to replace \<password\> in the link
 
 ### Stride
   
