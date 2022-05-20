@@ -50,6 +50,29 @@ For port i used 4000
 
 for DB_URI make a new cluster,give it ip permissions and the copy the id here.dont forget to replace <password> in the link
 
-###Stride is used for
+### Stride
+  
+Stride is used for the payment system.
+  
+Make a account and enter the data
+  
+### JWT
+  
+JWT is used for encrpt and decrpt
+  
+make a random value in JWT_SECRET and and its expiration time in JWT_EXPIRE
+  
+### Cookie
+In COOKIE_EXPIRE add expiration time
+### SMPT
+add this according to your preferred service
+### Cloudinary
+Used for storing image data
 
+Make an account and add the data here  
 
+# Run the code
+
+**For Backend** - `npm start`
+
+**For Frontend** - `cd frontend` ` npm start`
